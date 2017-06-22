@@ -1,0 +1,60 @@
+body {
+    background-image: url(IceF.png);
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    padding: 1em;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+    color: white;
+    background-color: #6E1B2E;
+    text-align: center;
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+    max-width: 922px;
+	
+	
+}
+
+
+
+article {
+    padding: 1em;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+    color: white;
+    background-color: #359A63;
+    text-align: center;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+    max-width: 922px;
+}
+
+nav {
+	
+	float: left;
+   
+   max-width: 300px;
+   height:60px;
+   border: 1px solid black;
+   
+   padding: 1em;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+    color: white;
+    background-color: #CB8E50;
+    text-align: center;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+}
+
